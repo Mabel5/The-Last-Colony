@@ -9,7 +9,7 @@
         "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461"
     ],
     "filterType": "GMObject",
-    "folderName": "Marine",
+    "folderName": "Photon Shooter",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

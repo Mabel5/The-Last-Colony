@@ -1,4 +1,4 @@
 if(isBuildable) {
-	instance_create_layer(x, y, "TowerInstances", obj_MarineTower);
+	instance_create_depth(x, y, room_height - y, obj_MarineTower);
 	instance_destroy();
 }

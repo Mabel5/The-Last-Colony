@@ -75,6 +75,20 @@
             "value": "True",
             "varName": "isBuildable",
             "varType": 3
+        },
+        {
+            "id": "21a42892-6d0b-4740-b232-937cc694759d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "150",
+            "varName": "fire_range",
+            "varType": 0
         }
     ],
     "solid": false,
