@@ -4,11 +4,30 @@
     "mvc": "1.0",
     "name": "obj_MarineGUI",
     "eventList": [
-        
+        {
+            "id": "35b3e7db-c9f1-4d60-a05a-641ecbc3028c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "542e7aff-fa6b-4af3-bdfe-01c54257b15c"
+        },
+        {
+            "id": "4dab506d-371f-4957-98c8-69a8a4dcf60b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 7,
+            "eventtype": 6,
+            "m_owner": "542e7aff-fa6b-4af3-bdfe-01c54257b15c"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "13a35de6-88b4-431c-901d-6f6eb9d9743a",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

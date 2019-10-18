@@ -4,11 +4,50 @@
     "mvc": "1.0",
     "name": "obj_MarineTower",
     "eventList": [
-        
+        {
+            "id": "50fa74a1-89e8-497f-b9f6-3e54b95bb71a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461"
+        },
+        {
+            "id": "da36bb23-fcef-4730-9a99-49a9957ef183",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461"
+        },
+        {
+            "id": "948604f6-3edf-4595-bcef-50d3f777621b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461"
+        },
+        {
+            "id": "eab8b1a6-c346-407b-9d50-73323ed0db85",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "d5b9f7a4-52a6-442a-83e4-dd85c2300de0",
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
