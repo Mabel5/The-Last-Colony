@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "obj_Alien",
     "eventList": [
-        {
-            "id": "9a6a0054-7351-4dd6-95a6-3d86f06a2949",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "d1074b8f-a930-47cf-a145-2431908d2da7"
-        },
-        {
-            "id": "eb0ee872-0335-43b7-b2d8-0c4639706e00",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "d1074b8f-a930-47cf-a145-2431908d2da7"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
