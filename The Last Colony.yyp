@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "0c8b0598-3b8d-456c-9f94-89ad8dc0d6d2",
+            "Value": {
+                "id": "949312ba-af0e-4ad0-83c5-cbd14ed334ea",
+                "resourcePath": "sprites\\spr_MoonBackground\\spr_MoonBackground.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d6377dd-a4a0-491d-93ec-a7dd20facc34",
             "Value": {
                 "id": "4e6764e6-9f1e-45ea-9ce5-1463c458fe99",
