@@ -4,30 +4,11 @@
     "mvc": "1.0",
     "name": "obj_PhotonShooterT2GUI",
     "eventList": [
-        {
-            "id": "77e29d51-fd8a-4a8c-9f59-9eb96c5dc903",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "78b22af2-8880-4752-9e44-f1953e0feeed"
-        },
-        {
-            "id": "2c26b1c6-4b49-4340-b7d9-f007dfc6dab6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "78b22af2-8880-4752-9e44-f1953e0feeed"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "542e7aff-fa6b-4af3-bdfe-01c54257b15c",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
