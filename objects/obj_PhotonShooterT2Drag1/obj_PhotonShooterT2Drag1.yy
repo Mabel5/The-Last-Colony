@@ -1,0 +1,111 @@
+{
+    "id": "bc072ce3-ed2d-478c-8d92-c158c8e1e1ab",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_PhotonShooterT2Drag1",
+    "eventList": [
+        {
+            "id": "5eaf5e0f-4776-4f7c-bc8c-c0fa40727c8c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "bc072ce3-ed2d-478c-8d92-c158c8e1e1ab"
+        },
+        {
+            "id": "5cba6c56-9616-42ad-aac6-f9ce0a86a604",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "bc072ce3-ed2d-478c-8d92-c158c8e1e1ab"
+        },
+        {
+            "id": "b9bc033b-27de-4540-927d-f6bc88ed9795",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "bc072ce3-ed2d-478c-8d92-c158c8e1e1ab"
+        },
+        {
+            "id": "753f97ed-30cd-4485-a36f-02bc68a83fc8",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "0ed40d65-007c-43ea-9d0f-a713e10afba8",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "bc072ce3-ed2d-478c-8d92-c158c8e1e1ab"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "abaa8e9b-2696-40ff-b253-21823a1e6eb3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "True",
+            "varName": "isBuildable",
+            "varType": 3
+        },
+        {
+            "id": "5dd0196d-1f1f-4e17-960e-062407805306",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "175",
+            "varName": "fire_range",
+            "varType": 0
+        },
+        {
+            "id": "c058bf98-9b7e-4530-8515-c6078bd99d16",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_PhotonShooterTower",
+            "varName": "finishedTower",
+            "varType": 5
+        }
+    ],
+    "solid": false,
+    "spriteId": "d1bb85a7-de16-42da-91e9-5898a9122e26",
+    "visible": true
+}

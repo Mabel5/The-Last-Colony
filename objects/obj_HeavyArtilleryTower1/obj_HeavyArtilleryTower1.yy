@@ -1,0 +1,111 @@
+{
+    "id": "23a3b34d-ec57-4519-a604-c0cb4aa67204",
+    "modelName": "GMObject",
+    "mvc": "1.0",
+    "name": "obj_HeavyArtilleryTower1",
+    "eventList": [
+        {
+            "id": "e451e9e1-311f-43d1-9187-2bcdec27a30e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "23a3b34d-ec57-4519-a604-c0cb4aa67204"
+        },
+        {
+            "id": "7f16ddbb-670e-4386-abb4-141556e87f59",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "23a3b34d-ec57-4519-a604-c0cb4aa67204"
+        },
+        {
+            "id": "6d9a3ec4-c2d3-46f3-93c6-1b4feef3331a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "23a3b34d-ec57-4519-a604-c0cb4aa67204"
+        },
+        {
+            "id": "ad138d5d-d1d9-4668-9acb-dc47ce5def8f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "23a3b34d-ec57-4519-a604-c0cb4aa67204"
+        }
+    ],
+    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": null,
+    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "persistent": false,
+    "physicsAngularDamping": 0.1,
+    "physicsDensity": 0.5,
+    "physicsFriction": 0.2,
+    "physicsGroup": 0,
+    "physicsKinematic": false,
+    "physicsLinearDamping": 0.1,
+    "physicsObject": false,
+    "physicsRestitution": 0.1,
+    "physicsSensor": false,
+    "physicsShape": 1,
+    "physicsShapePoints": null,
+    "physicsStartAwake": true,
+    "properties": [
+        {
+            "id": "eaa840bf-7938-4734-aa30-a969b516f25d",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "obj_blueBullet",
+            "varName": "bullet",
+            "varType": 5
+        },
+        {
+            "id": "22043c9b-590b-4c75-9b63-e82664dbe8f9",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "200",
+            "varName": "fire_range",
+            "varType": 0
+        },
+        {
+            "id": "c4e5b42e-5a4e-4c3c-ba5d-f5838376cdfe",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "12",
+            "varName": "fire_rate",
+            "varType": 0
+        }
+    ],
+    "solid": false,
+    "spriteId": "a0e40b97-05e9-4ce4-ad15-092394eae905",
+    "visible": true
+}
