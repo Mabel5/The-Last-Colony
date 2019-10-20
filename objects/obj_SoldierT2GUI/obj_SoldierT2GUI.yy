@@ -4,30 +4,11 @@
     "mvc": "1.0",
     "name": "obj_SoldierT2GUI",
     "eventList": [
-        {
-            "id": "b631021d-7ec6-4d93-a650-0592484c8f9e",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "d1d6565d-ca82-4a74-98ce-a11a9773d96e"
-        },
-        {
-            "id": "a79c9e25-6ac6-4574-a4f7-9058f055d471",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "d1d6565d-ca82-4a74-98ce-a11a9773d96e"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "292ea94c-41a1-4bc0-bd08-bc5b0d5e4699",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

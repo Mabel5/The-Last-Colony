@@ -4,50 +4,36 @@
     "mvc": "1.0",
     "name": "obj_SoldierTower",
     "eventList": [
-        {
-            "id": "0d69b256-d133-4ce9-9298-5519ba67b91d",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "e3cdac2e-426d-439c-882d-1682d6854b7a"
-        },
-        {
-            "id": "d6a1228d-a5a2-4cf3-8eeb-555a6c838a24",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e3cdac2e-426d-439c-882d-1682d6854b7a"
-        },
-        {
-            "id": "ee2036de-0155-4a1f-bb4a-38e5a4c787b3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "e3cdac2e-426d-439c-882d-1682d6854b7a"
-        },
-        {
-            "id": "fd39f12e-df61-4c9a-b7fc-83b3727347fe",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "e3cdac2e-426d-439c-882d-1682d6854b7a"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "70200141-41eb-4146-98d8-cf7228f2050f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461",
+            "propertyId": "df354c32-6a30-4135-b380-6699c508469a",
+            "value": "15"
+        },
+        {
+            "id": "5b844005-fc2f-4908-93dc-f4a7d44bfe3d",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461",
+            "propertyId": "67bc9a8f-404c-4b34-a14a-15b502addfc6",
+            "value": "100"
+        },
+        {
+            "id": "26906d0e-7ff7-4c60-b3b0-df7c1d594d13",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461",
+            "propertyId": "d64922e3-7baf-4839-a8e9-ebcb49313358",
+            "value": "obj_blueBullet"
+        }
+    ],
+    "parentObjectId": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
@@ -62,48 +48,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "3268a5ef-a1aa-4fc5-ad93-53ca99ecf567",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "obj_blueBullet",
-            "varName": "bullet",
-            "varType": 5
-        },
-        {
-            "id": "48e2ae51-bd53-4b25-8ac1-86c7d4c1fa06",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "100",
-            "varName": "fire_range",
-            "varType": 0
-        },
-        {
-            "id": "d7367d91-a45a-4b79-9f4e-d29b6c7a747b",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "15",
-            "varName": "fire_rate",
-            "varType": 0
-        }
+        
     ],
     "solid": false,
     "spriteId": "bb0fb7be-c41a-4065-a05c-072ab0d66bf0",
