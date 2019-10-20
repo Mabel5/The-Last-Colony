@@ -4,50 +4,11 @@
     "mvc": "1.0",
     "name": "obj_PhotonShooterT3Tower",
     "eventList": [
-        {
-            "id": "82b2709a-3731-4a9f-b24f-e33eb0c2ece6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "4fa89471-8c36-4863-b380-b776a93f1645"
-        },
-        {
-            "id": "cef0cad4-e132-4e79-b84a-fa7438135ef7",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "4fa89471-8c36-4863-b380-b776a93f1645"
-        },
-        {
-            "id": "c6a88c16-3c10-4933-b777-ac19c352134f",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "4fa89471-8c36-4863-b380-b776a93f1645"
-        },
-        {
-            "id": "06693020-40d2-4829-85c4-1fb68a615856",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "4fa89471-8c36-4863-b380-b776a93f1645"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "a0a3d9f7-5a2b-4bea-8e4f-bc306b3cc461",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
