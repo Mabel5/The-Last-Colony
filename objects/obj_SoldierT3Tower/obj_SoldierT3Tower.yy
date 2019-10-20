@@ -4,50 +4,11 @@
     "mvc": "1.0",
     "name": "obj_SoldierT3Tower",
     "eventList": [
-        {
-            "id": "2454d2d6-ed83-4cec-9766-39dfbc579127",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "5b0c1cfc-04bf-46dd-85af-1b3daa8bf0f9"
-        },
-        {
-            "id": "880b6442-8b12-4427-bfa8-372416528f25",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "5b0c1cfc-04bf-46dd-85af-1b3daa8bf0f9"
-        },
-        {
-            "id": "35193e6d-55ec-4a0c-8dd2-7c03500ebbd8",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "5b0c1cfc-04bf-46dd-85af-1b3daa8bf0f9"
-        },
-        {
-            "id": "68ecf0a6-6f1f-485f-affc-9b37cad03746",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "5b0c1cfc-04bf-46dd-85af-1b3daa8bf0f9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "e3cdac2e-426d-439c-882d-1682d6854b7a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

@@ -4,30 +4,11 @@
     "mvc": "1.0",
     "name": "obj_HeavyArtilleryT3GUI",
     "eventList": [
-        {
-            "id": "862db234-0bf6-46c6-b918-d8cef06b376c",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 8,
-            "m_owner": "4dfb8ecf-d0f0-4f4d-a054-fb988e1c271c"
-        },
-        {
-            "id": "aee4dce5-be0f-470a-a8ac-5632e7d0148b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 7,
-            "eventtype": 6,
-            "m_owner": "4dfb8ecf-d0f0-4f4d-a054-fb988e1c271c"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "11825bb7-b341-4520-9aa1-28c1a1a3450a",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,

@@ -23,6 +23,56 @@
             "enumb": 0,
             "eventtype": 2,
             "m_owner": "9eff221a-a0a6-4b7d-bd17-31c98c487dfc"
+        },
+        {
+            "id": "be617374-bbb4-43bc-8c9a-3f763f81e1e9",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 1,
+            "eventtype": 2,
+            "m_owner": "9eff221a-a0a6-4b7d-bd17-31c98c487dfc"
+        },
+        {
+            "id": "623ad675-2335-45fe-aa6b-342e48c1734a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 2,
+            "eventtype": 2,
+            "m_owner": "9eff221a-a0a6-4b7d-bd17-31c98c487dfc"
+        },
+        {
+            "id": "4e0df60b-29b7-42a3-a7f3-11fee7b60768",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
+            "m_owner": "9eff221a-a0a6-4b7d-bd17-31c98c487dfc"
+        },
+        {
+            "id": "2c88dd09-095f-4efa-bfc6-841dc17f2911",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 2,
+            "m_owner": "9eff221a-a0a6-4b7d-bd17-31c98c487dfc"
+        },
+        {
+            "id": "c8f22020-df82-44bc-b87f-d6fc0dcdddbd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 5,
+            "eventtype": 2,
+            "m_owner": "9eff221a-a0a6-4b7d-bd17-31c98c487dfc"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -42,20 +92,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": [
-        {
-            "id": "09078069-0b30-4f7a-84a2-ae534f0cb3dc",
-            "modelName": "GMObjectProperty",
-            "mvc": "1.0",
-            "listItems": null,
-            "multiselect": false,
-            "rangeEnabled": false,
-            "rangeMax": 10,
-            "rangeMin": 0,
-            "resourceFilter": 1023,
-            "value": "25",
-            "varName": "spawn_rate",
-            "varType": 0
-        }
+        
     ],
     "solid": false,
     "spriteId": "00000000-0000-0000-0000-000000000000",
