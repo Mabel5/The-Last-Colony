@@ -72,7 +72,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "obj_MarineBullet",
+            "value": "obj_blueBullet",
             "varName": "bullet",
             "varType": 5
         },
@@ -100,7 +100,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "10",
+            "value": "12",
             "varName": "fire_rate",
             "varType": 0
         }
