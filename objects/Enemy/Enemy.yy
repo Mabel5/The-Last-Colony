@@ -69,6 +69,34 @@
             "value": "5",
             "varName": "spd",
             "varType": 0
+        },
+        {
+            "id": "a37168b6-4a33-4e35-a5dd-b4ace4057af3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "medallionsEarned",
+            "varType": 0
+        },
+        {
+            "id": "3b49d16a-9dff-49b1-afd7-2d49e336d005",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "1",
+            "varName": "multiplier",
+            "varType": 0
         }
     ],
     "solid": false,

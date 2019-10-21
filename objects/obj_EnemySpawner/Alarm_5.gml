@@ -1,2 +1,6 @@
-alien = instance_create_layer(x,y, "Enemies", obj_HarpyT3) //spawn an alien instance
-alarm[5] = alien.spawn_rate; //set an alarm to spawn an enemy based on spawn rate (in milliseconds)
+if(HA3Count < harpy3SpawnCount) {
+	alien = instance_create_layer(x,y, "Enemies", obj_HarpyT3) //spawn an alien instance
+	HA3Count++;
+}
+
+alarm[5] = HA3SpawnRate;

@@ -47,7 +47,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "200",
+            "value": "225",
             "varName": "fire_range",
             "varType": 0
         },
@@ -61,7 +61,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "18",
+            "value": "35",
             "varName": "fire_rate",
             "varType": 0
         }

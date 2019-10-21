@@ -1,4 +1,7 @@
-alien = instance_create_layer(x,y, "Enemies", obj_Hellhound) //spawn an alien instance
-alarm[0] = alien.spawn_rate; //set an alarm to spawn an enemy based on spawn rate (in milliseconds)
+if(HHCount < hellhoundSpawnCount) { 
+	alien = instance_create_layer(x,y, "Enemies", obj_Hellhound) //spawn an alien instance
+	HHCount++;
+}
 
+alarm[0] = HHSpawnRate;
 

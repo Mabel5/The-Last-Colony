@@ -1,4 +1,4 @@
 if (hp <= 0) {
-	obj_player.medallions += 1
+	obj_player.medallions += medallionsEarned
 	instance_destroy();
 }

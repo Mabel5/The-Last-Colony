@@ -1,20 +1,20 @@
 {
-    "id": "07782491-00a0-448b-8493-107d7f4461bd",
+    "id": "2ea53a52-48be-49a0-8fc1-8dacc5f39168",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_redBullet1",
+    "name": "obj_bluePhoton",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
         {
-            "id": "703e8579-1a92-4bc6-8358-521ee6677049",
+            "id": "3c7ff1ec-667a-41a8-bdf2-1a3f26fc42fd",
             "modelName": "GMOverriddenProperty",
             "mvc": "1.0",
             "objectId": "791fb5f1-93e6-4118-998b-9ce9c76446ef",
             "propertyId": "2107001a-fc08-4156-8bec-afc4b6342113",
-            "value": "180"
+            "value": "80"
         }
     ],
     "parentObjectId": "791fb5f1-93e6-4118-998b-9ce9c76446ef",
@@ -31,8 +31,10 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
-    "spriteId": "6ad47c4a-2c42-4304-b296-b8c6f0b760fd",
+    "spriteId": "a1636529-956d-4adf-9a71-e957bb7ab8cb",
     "visible": true
 }
