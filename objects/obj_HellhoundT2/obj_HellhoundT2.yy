@@ -61,7 +61,7 @@
             "mvc": "1.0",
             "objectId": "0d6377dd-a4a0-491d-93ec-a7dd20facc34",
             "propertyId": "a8ebf0ad-31f0-439b-a699-47e4a77af1c5",
-            "value": "125"
+            "value": "100"
         }
     ],
     "parentObjectId": "0d6377dd-a4a0-491d-93ec-a7dd20facc34",

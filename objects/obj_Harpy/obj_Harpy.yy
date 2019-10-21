@@ -43,7 +43,7 @@
             "mvc": "1.0",
             "objectId": "0d6377dd-a4a0-491d-93ec-a7dd20facc34",
             "propertyId": "269a0e16-86c0-4ee6-a4c5-edd76bf3d536",
-            "value": "5"
+            "value": "2.1"
         },
         {
             "id": "b0a893b4-c524-4f69-a361-f7a86c1ff692",
@@ -79,7 +79,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "40",
+            "value": "200",
             "varName": "spawn_rate",
             "varType": 0
         }

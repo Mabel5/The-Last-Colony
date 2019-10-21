@@ -33,6 +33,16 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "94040997-5484-41c8-b593-edfa4c22723d"
+        },
+        {
+            "id": "c14a29e9-28c6-4a88-b61f-9bd5abbf73ea",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "791fb5f1-93e6-4118-998b-9ce9c76446ef",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "94040997-5484-41c8-b593-edfa4c22723d"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,7 +53,7 @@
             "mvc": "1.0",
             "objectId": "0d6377dd-a4a0-491d-93ec-a7dd20facc34",
             "propertyId": "269a0e16-86c0-4ee6-a4c5-edd76bf3d536",
-            "value": "7"
+            "value": "1"
         },
         {
             "id": "a0747913-00e8-4ec0-b0aa-e3abed34a9fa",
@@ -79,7 +89,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "40",
+            "value": "1000",
             "varName": "spawn_rate",
             "varType": 0
         }
