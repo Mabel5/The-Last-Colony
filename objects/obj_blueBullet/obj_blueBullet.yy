@@ -4,26 +4,7 @@
     "mvc": "1.0",
     "name": "obj_blueBullet",
     "eventList": [
-        {
-            "id": "ceb15eb0-5f34-4620-bed1-de72a4ecb625",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "b8af3f59-7dba-42eb-9364-d24f08afd2c9"
-        },
-        {
-            "id": "207951a0-f60f-4db2-9d2a-cefef7ec24c3",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "b8af3f59-7dba-42eb-9364-d24f08afd2c9"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
