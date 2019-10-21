@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_HeavyArtilleryTower",
     "eventList": [
-        
+        {
+            "id": "b4374047-104c-4252-bbc3-e162f5d34796",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "87850d56-3bce-4d6e-a24a-dda5c30bc85a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
