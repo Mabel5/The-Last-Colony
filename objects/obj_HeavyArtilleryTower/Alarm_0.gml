@@ -1,5 +1,11 @@
 if (instance_exists(current_target) && current_target.hp > 0) {
 	
+	if (current_target.x > x) {
+		image_xscale = 1 
+	} else if (current_target.x <= x) {
+		image_xscale = -1
+	}
+	
 	towerDepth = room_height - y;
 	bulletDepth = towerDepth + 1;
 	

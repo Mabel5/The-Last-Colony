@@ -103,6 +103,20 @@
             "value": "12",
             "varName": "fire_rate",
             "varType": 0
+        },
+        {
+            "id": "91523aec-1536-4d4b-af0e-666faa16bcc6",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "15",
+            "varName": "bullet_speed",
+            "varType": 0
         }
     ],
     "solid": false,
