@@ -33,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "5b3482f4-add3-49da-88bf-ac77d2934099",
+            "id": "092c2456-f311-4d7b-b7de-87f71fe4e873",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -42,8 +42,8 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "0",
-            "varName": "waveValue",
+            "value": "1",
+            "varName": "waveCount",
             "varType": 0
         }
     ],

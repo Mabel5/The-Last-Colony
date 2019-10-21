@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "07782491-00a0-448b-8493-107d7f4461bd",
+            "Value": {
+                "id": "d3f0c02d-57d9-4bfc-a177-f27b5cc5e082",
+                "resourcePath": "objects\\obj_redPhoton\\obj_redPhoton.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0ada3638-4a8a-4902-b134-a3a51be18377",
             "Value": {
                 "id": "b4c5f947-0d37-4d3e-8b91-fbe459e79773",
@@ -244,6 +252,14 @@
                 "id": "64d7989b-5d0e-4d16-8d6a-c697f76ed86f",
                 "resourcePath": "views\\2bac067a-65c1-42da-b1c6-320f57be653e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2ea53a52-48be-49a0-8fc1-8dacc5f39168",
+            "Value": {
+                "id": "63e2cd12-4237-4445-a49b-d878d8b7ede9",
+                "resourcePath": "objects\\obj_bluePhoton\\obj_bluePhoton.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -628,6 +644,14 @@
                 "id": "b79b9dd6-d169-48c8-8562-3457cdb83def",
                 "resourcePath": "sprites\\sp_greenLaser\\sp_greenLaser.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ee9bb87-9723-4233-a0fe-81eccd26e8d2",
+            "Value": {
+                "id": "2fcb1f9d-52b8-4d61-a53e-8e3203ec4a13",
+                "resourcePath": "objects\\obj_greenPhoton\\obj_greenPhoton.yy",
+                "resourceType": "GMObject"
             }
         },
         {

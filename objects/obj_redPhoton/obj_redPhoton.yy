@@ -2,7 +2,7 @@
     "id": "07782491-00a0-448b-8493-107d7f4461bd",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_redBullet1",
+    "name": "obj_redPhoton",
     "eventList": [
         
     ],

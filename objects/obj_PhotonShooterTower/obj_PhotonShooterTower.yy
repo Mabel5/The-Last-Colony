@@ -72,7 +72,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "obj_blueBullet",
+            "value": "obj_bluePhoton",
             "varName": "bullet",
             "varType": 5
         },
@@ -86,7 +86,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "150",
+            "value": "200",
             "varName": "fire_range",
             "varType": 0
         },

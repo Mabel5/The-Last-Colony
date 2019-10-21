@@ -1,5 +1,5 @@
 //the amount of money the player has
-medallions = 100
+medallions = 10
 level = room
 
 if level == 1 {
