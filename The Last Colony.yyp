@@ -1087,6 +1087,14 @@
             }
         },
         {
+            "Key": "d9159209-c6ef-464e-9eef-2921823c7635",
+            "Value": {
+                "id": "ada98e12-210a-4a18-8a9b-255befb8e6a9",
+                "resourcePath": "scripts\\GenerateWave\\GenerateWave.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "dc4da76e-eb55-42c3-b24b-d0b8712c1169",
             "Value": {
                 "id": "0928b0b9-8090-4db4-ad7f-668525ff2baa",
@@ -1200,7 +1208,7 @@
         }
     ],
     "script_order": [
-        
+        "d9159209-c6ef-464e-9eef-2921823c7635"
     ],
     "tutorial": ""
 }

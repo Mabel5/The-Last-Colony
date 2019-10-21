@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "Wave",
     "eventList": [
-        
+        {
+            "id": "3b27c740-f683-4595-8359-da24eec6cd4f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 4,
+            "eventtype": 6,
+            "m_owner": "2a2f08ec-831f-40a1-bcc3-cf6343c96bac"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
