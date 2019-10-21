@@ -9,8 +9,12 @@ if(instance_exists(current_target)) {
 if(nearest_enemy != noone && distance_to_current > fire_range) {
 	
 	distance_to_enemy = point_distance(x, y, nearest_enemy.x, nearest_enemy.y)
-
 	
+	if (nearest_enemy.x > x) {
+		image_xscale = 1 
+	} else if (nearest_enemy.x <= x) {
+		image_xscale = -1
+	}
 	
 	if (instance_exists(nearest_enemy) && distance_to_enemy < fire_range) { //shoot
 		if(!isShooting) {

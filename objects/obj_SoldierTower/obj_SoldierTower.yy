@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_SoldierTower",
     "eventList": [
-        
+        {
+            "id": "2732cefa-7c4e-4ba0-8b3c-93275cdef30c",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "e3cdac2e-426d-439c-882d-1682d6854b7a"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": [
