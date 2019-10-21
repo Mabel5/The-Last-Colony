@@ -16,7 +16,6 @@ if(nearest_enemy != noone && distance_to_current > fire_range) {
 		image_xscale = -1
 	}
 	
-	
 	if (instance_exists(nearest_enemy) && distance_to_enemy < fire_range) { //shoot
 		if(!isShooting) {
 			alarm[0] = 1
